@@ -52,6 +52,7 @@ break
 break
     default:
     alert("Valor invalido")
+break
 }
 }
 while( menu ==! '6')
